@@ -1,0 +1,10 @@
+body {
+    background-color: dodgerblue;
+    font-family: Arial;
+    font-size: 20px;
+}
+
+span {
+    font-weight: bold;
+    font-size: 15px;    
+}
